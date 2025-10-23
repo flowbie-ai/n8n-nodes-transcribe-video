@@ -1,6 +1,6 @@
 {
   "name": "@flowbie/n8n-nodes-transcribe-video",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "n8n node for Flowbie video transcription API",
   "keywords": [
     "n8n-community-node-package",
